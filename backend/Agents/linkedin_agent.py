@@ -1,0 +1,1 @@
+#scrapes LinkedIn of the company, employees and saves it in a structured format 
