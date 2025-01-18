@@ -1,3 +1,7 @@
+#TODO Chunking
+#TODO Modularization into: Chunking, Indexing, Retrieval
+#TODO Explore Advanced RAG techniques
+
 import os
 import dotenv
 import asyncio
